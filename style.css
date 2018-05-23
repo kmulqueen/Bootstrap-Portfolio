@@ -1,0 +1,19 @@
+.page-title {
+    padding-top: 10px;
+    color: #4aaaa5;
+}
+
+#about-img {
+    margin-right: 10px;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding: 10px;
+    margin: 0;
+}
+
+.nav-link {
+    border-right: #ddd 1px solid;
+    color: #777;
+}
